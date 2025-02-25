@@ -5,4 +5,5 @@
  * @create: 2025-02-25
  */
 public class SimpleArrayList {
+
 }
